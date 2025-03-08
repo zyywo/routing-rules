@@ -1,0 +1,14 @@
+{
+    "version": 3,
+    "rules": [
+        {
+           "domain": [
+                "fonts.googleapis.com",
+                "fonts.gstatic.com"
+            ],
+            "domain_suffix": [
+                "xn--ngstr-lra8j.com"
+            ]
+        }
+    ]
+}
