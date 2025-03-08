@@ -1,0 +1,12 @@
+{
+    "rules": [
+        {
+           "domain": [
+                "sing-box.sagernet.org"
+            ],
+            "domain_suffix": [
+                "sagernet.org"
+            ]
+        }
+    ]
+}
