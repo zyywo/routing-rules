@@ -3,11 +3,12 @@
     "rules": [
         {
            "domain": [
-                "sing-box.sagernet.org",
-                "v2.hysteria.network"
+              "sing-box.sagernet.org",
+              "v2.hysteria.network",
+              "anybt.eth.link"
             ],
             "domain_suffix": [
-                "sagernet.org"
+              "sagernet.org"
             ]
         }
     ]
