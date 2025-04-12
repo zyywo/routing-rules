@@ -8,7 +8,8 @@
               "anybt.eth.link"
             ],
             "domain_suffix": [
-              "sagernet.org"
+                "sagernet.org",
+                "gns3.com"
             ]
         }
     ]
