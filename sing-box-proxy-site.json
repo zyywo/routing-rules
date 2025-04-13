@@ -9,7 +9,8 @@
             ],
             "domain_suffix": [
                 "sagernet.org",
-                "gns3.com"
+                "gns3.com",
+                "dockerstatic.com"
             ]
         }
     ]
