@@ -11,6 +11,9 @@
             "domain_suffix": [
                 "sagernet.org",
                 "dockerstatic.com"
+            ],
+            "ip_cidr": [
+                "104.21.16.1/32"
             ]
         }
     ]
