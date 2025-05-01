@@ -6,15 +6,11 @@
               "sing-box.sagernet.org",
               "v2.hysteria.network",
               "anybt.eth.link",
-              "dist.mcdn.co",
               "www.ncat.app"
             ],
             "domain_suffix": [
                 "sagernet.org",
                 "dockerstatic.com"
-            ],
-            "ip_cidr": [
-                "104.21.16.1/32"
             ]
         }
     ]
