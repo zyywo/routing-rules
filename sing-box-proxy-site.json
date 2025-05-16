@@ -3,17 +3,16 @@
     "rules": [
         {
            "domain": [
-               "sing-box.sagernet.org",
-               "v2.hysteria.network",
-               "anybt.eth.link",
-               "www.ncat.app",
-               "aion.paradox-interactive.com",
-               "metadata-assets.paradox-interactive.com"
+                "sing-box.sagernet.org",
+                "v2.hysteria.network",
+                "anybt.eth.link",
+                "www.ncat.app"
             ],
             "domain_suffix": [
                 "sagernet.org",
                 "dockerstatic.com",
-                "paradoxplaza.com"
+                "paradoxplaza.com",
+                "paradox-interactive.com"
             ]
         }
     ]
