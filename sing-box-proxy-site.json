@@ -3,10 +3,11 @@
     "rules": [
         {
            "domain": [
-                "sing-box.sagernet.org",
-                "v2.hysteria.network",
-                "anybt.eth.link",
-                "www.ncat.app"
+               "sing-box.sagernet.org",
+               "v2.hysteria.network",
+               "anybt.eth.link",
+               "www.ncat.app",
+               "dln1.ncdn.ec"
             ],
             "domain_suffix": [
                 "sagernet.org",
