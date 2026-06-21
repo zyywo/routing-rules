@@ -10,7 +10,6 @@
                "www.server-world.info",
                "dln1.ncdn.ec",
                "zlibrary.sodanav.com",
-               "download.nextcloud.com",
                "updates.nextcloud.org"
             ],
             "domain_suffix": [
@@ -23,7 +22,8 @@
                 "zed.dev",
                 "wnimg1.ru",
                 "qy0.ru",
-                "experts-exchange.com"
+                "experts-exchange.com",
+                "nextcloud.com"
             ]
         }
     ]
