@@ -10,7 +10,8 @@
                "www.server-world.info",
                "dln1.ncdn.ec",
                "zlibrary.sodanav.com",
-                "download.nextcloud.com"
+               "download.nextcloud.com",
+               "updates.nextcloud.org"
             ],
             "domain_suffix": [
                 "sagernet.org",
