@@ -10,8 +10,7 @@
                "www.server-world.info",
                "dln1.ncdn.ec",
                "zlibrary.sodanav.com",
-               "updates.nextcloud.org",
-               "www.dwarffortresswiki.org"
+               "updates.nextcloud.org"
             ],
             "domain_suffix": [
                 "sagernet.org",
@@ -24,7 +23,8 @@
                 "wnimg1.ru",
                 "qy0.ru",
                 "experts-exchange.com",
-                "nextcloud.com"
+                "nextcloud.com",
+                "dwarffortresswiki.org"
             ]
         }
     ]
