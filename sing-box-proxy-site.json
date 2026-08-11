@@ -12,7 +12,8 @@
                "zlibrary.sodanav.com",
                "updates.nextcloud.org",
                "challenges.cloudflare.com",
-                "images.steamusercontent.com"
+               "images.steamusercontent.com",
+               "releases.astral.sh"
             ],
             "domain_suffix": [
                 "sagernet.org",
