@@ -13,7 +13,8 @@
                "updates.nextcloud.org",
                "challenges.cloudflare.com",
                "releases.astral.sh",
-               "downloads.nyaterm.app"
+               "downloads.nyaterm.app",
+               "res.public.onecdn.static.microsoft"
             ],
             "domain_suffix": [
                 "sagernet.org",
